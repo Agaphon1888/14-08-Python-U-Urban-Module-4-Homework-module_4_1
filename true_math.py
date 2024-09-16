@@ -10,3 +10,5 @@ def divide(first, second):
         return inf
     else:
         return first / second
+
+
